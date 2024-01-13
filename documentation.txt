@@ -5,10 +5,16 @@ express-sequelize-psql/
 |-- models/
 |   |-- index.js
 |   |-- todo.js
+|   |-- users.js
 |-- routes/
 |   |-- todos.js
+|   |-- users.js
 |-- controllers/
 |   |-- todoController.js
+|   |-- userController.js
+|-- utils/
+|   |-- fileUpload.js
+|-- uploads/
 |-- index.js
 |-- package.json
 
